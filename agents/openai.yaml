@@ -1,0 +1,4 @@
+interface:
+  display_name: "WeChat MP Publisher"
+  short_description: "将 Markdown 文章排版并发布到微信公众号草稿箱"
+  default_prompt: "Use $wechat-mp-publisher to turn a local Markdown article into a styled WeChat Official Account draft."
